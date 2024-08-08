@@ -1,14 +1,35 @@
+# Vowel Checker
 
+**Vowel Checker** is a web-based application designed to analyze user-inputted text and display information about vowels. The tool offers two modes: one for listing unique vowels and another for identifying words containing vowels. This project demonstrates front-end development skills and basic JavaScript logic.
 
-## Introduction
-Hello, I'm Pranav Mahajan, a passionate individual with a knack for web development. My journey in the world of coding has just begun, and I'm excited to explore the vast possibilities that lie ahead.
+## Features
+- **Vowel Identification**: Lists unique vowels found in the input text.
+- **Word Analysis**: Identifies and displays words containing vowels.
+- **Interactive Interface**: User-friendly design with responsive layout and real-time feedback.
+- **Enhanced Visuals**: Highlights vowels within the text for better user interaction.
 
-## Skills
-- HTML: Proficient in creating structured and semantic web pages.
-- CSS: Skilled in styling and designing responsive and visually appealing websites.
-- JavaScript: Familiar with the fundamentals of JavaScript for adding interactivity to web pages.
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Projects
-Currently, I am in the early stages of my coding journey, and I haven't undertaken any projects to showcase yet. However, stay tuned for exciting developments as I continue to build and expand my skills.
+## Installation and Usage
 
-##Github stats
+### Clone the Repository:
+```bash
+git clone https://github.com/Akt-Pranav/Vowel_Checker.git
+```
+###Navigate to the Project Directory:
+
+```bash
+cd Vowel_Checker
+```
+###Open the HTML File:
+
+Open index.html in your web browser.
+
+###How to Use
+**Enter Text**: Type or paste the text you want to analyze into the input field.
+**Check Vowels**: Click on the "Check Letters" button to list unique vowels in the text.
+**Check Words**: Click on the "Check Words" button to identify and display words containing vowels.
+**Clear Input**: Click on the "Clear" button to reset the input field and hide the results.
